@@ -6,7 +6,7 @@
 *.dylib
 reconnio
 reconsuite
-internal
+/internal
 
 # Test binary, built with `go test -c`
 *.test
