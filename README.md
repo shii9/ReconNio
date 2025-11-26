@@ -712,6 +712,6 @@ Special thanks to the security research community for inspiration and feedback.
 
 ⭐ Star this repository if you find it useful!
 
-[Report Bug](https://github.com/shii9/ReconNio/issues) · [Request Feature](https://github.com/shii9/ReconNio/issues) · [Documentation](https://github.com/shii9/ReconNio/wiki)
+[Documentation](https://github.com/shii9/ReconNio/wiki)
 
 </div>
