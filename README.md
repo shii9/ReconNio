@@ -710,8 +710,6 @@ Special thanks to the security research community for inspiration and feedback.
 
 **Made with ❤️ for the Security Community**
 
-⭐ Star this repository if you find it useful!
-
-[Documentation](https://github.com/shii9/ReconNio/wiki)
+[Report Bug](https://github.com/shii9/ReconNio/issues) · [Request Feature](https://github.com/shii9/ReconNio/issues) · [Documentation](https://github.com/shii9/ReconNio/wiki)
 
 </div>
